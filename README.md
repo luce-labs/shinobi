@@ -16,6 +16,5 @@ A project owner creates a project data on the server, project data includes secr
 </p>
 
 Note: this tool is not yet safe enough and work is in progress, it will go through a lot of phases to make sure it's safe enough
-<a href="https://www.buymeacoffee.com/dompehbright" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
